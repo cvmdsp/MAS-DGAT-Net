@@ -6,3 +6,6 @@ In recent years, with the rise of deep learning technologies, EEG-based emotion 
 ![Model](https://github.com/cvmdsp/MAS-DGAT-Net/blob/main/MAS-DGAT-NET.png)
 
 **Cite**:Shuaiqi Liu, Xinrui Wang, Mingqi Jiang, Yanling An, Zhihui Gu, Bing Li, Yudong Zhang, MAS-DGAT-Net: A dynamic graph attention network with multibranch feature extraction and staged fusion for EEG emotion recognition, Knowledge-Based Systems,Volume 305, 2024, 112599, ISSN 0950-7051, https://doi.org/10.1016/j.knosys.2024.112599.
+# Requirements:
+● Python 3.11  
+● Pytorch 2.0.1  
